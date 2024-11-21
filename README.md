@@ -25,6 +25,6 @@ Learning Objectives
 
 ## Second-Order SQL Injection
 
-
+I will update it later
 
 
